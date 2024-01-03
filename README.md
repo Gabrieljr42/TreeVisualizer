@@ -19,7 +19,7 @@ Explore e visualize grafos de forma fácil e interativa! Este aplicativo permite
 1. Clone este repositório.
 2. Instale as dependências: `npm install`
 3. Inicie o servidor de desenvolvimento: `npm run dev`
-4. Abra http://localhost:3000 no seu navegador.
+4. Abra http://localhost:5173 no seu navegador.
 
 ## Uso
 
